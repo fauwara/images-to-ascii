@@ -9,6 +9,38 @@ so I thought it would be cool if I could make an application that converts image
 
 The application still does not give the best possible result for every image out there, it works better with simpler images.
 
+## Soo does it work?
+![Cursed LMAO](https://github.com/fauwara/images-to-ascii/blob/master/src/lmao.png?raw=true)
+```
+███████████████▓▓▓▒▒░░░░░░░░░░▒▒▓▓▓███████████████
+███████████▓▓▒░░░░░░░░░░░░░░░░░░░░░░▒▓▓███████████
+████████▓▓▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▓▓████████
+██████▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓██████
+█████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓█████
+███▓▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▓███
+██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓██
+█▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓█
+█░░░░░░░░░░░▒▓▒▒░░░░░░░░░░░░░░░░░░▒▓▓▒░░░░░░░░░░░█
+▓░░░░░░░░░░░▒▒▓▓▓▓▒░░░░░░░░░░░░▒▓▓▓▓▒░░░░░░░░░░░░▓
+░░░░░░░░░.      ░▓▓▓░░░░░░░░░▒▓▓▒.      .░░░░░░░░░
+░░░░░░░░   ▒▓▓▒.  ▒▓▓▒░░░░░░▒▓▓.  ░▓▓▓▒   ░░░░░░░░
+░░░░░░░.  ░▓▓▓▓▓  .▒▓░░░░░░░▒▓▒   ▓▓▓▓▓.  ░░░░░░░░
+░░░░░░░░  .▒▓▓▓.  .░░░░░░░░░░░░.  .▓▓▓░  .░░░░░░░░
+░░░░░░▒▒░.      ..░░░░░░░░░░░░░░..     ..░▒▒░░░░░░
+▓░░░░▒▒▒▒▒░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░▒▒▒▒▒▒░░░░▓
+█░░▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▓▓▓▓▓▓▓▓▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒░░█
+█▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒.                .▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓█
+█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▒░░░..░░░▒▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒█
+█▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓█
+█▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓█
+███▓▒▒▒▒▒▒▒▒░░░░▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒░░░░▒▒▒▒▒▒▒▒▓███
+██████▓▓▓▓▒░░░░░░░░░░░▒▒▒▒▒▒░░░░░░░░░░░▒▓▓▓▓██████
+███████████▓▓▒░░░░░░░░░░░░░░░░░░░░░░▒▓▓███████████
+███████████████▓▓▓▒▒░░░░░░░░░░▒▒▓▓▓███████████████
+```
+
+I guess you could say it works though theres this issue whhere it does not work if the size of the image in pixels is not exactly divisible to the length of the ASCII text that you want. I kind of know whats the issue but its too annnoying too fix. I will fix it in the future thoo if motivation kicks in last momment ig idk.
+
 ## The Tech Stuff if your intrested in it.
 
 ### Tech Stack Used
