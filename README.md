@@ -4,7 +4,7 @@
 
 ## The Idea
 So I was chilling on youtube and I found this cool Saitamas ok Ascii thingy.  
-![Saitama: OK](https://github.com/fauwara/images-to-ascii/blob/master/images/saitama-ok-ascii.png?raw=true)  
+![Saitama: OK](https://github.com/fauwara/images-to-ascii/blob/master/src/saitama-ok-ascii.png?raw=true)  
 so I thought it would be cool if I could make an application that converts images into ASCII characters like this.
 
 The application still does not give the best possible result for every image out there, it works better with simpler images.
