@@ -25,5 +25,5 @@ The application still does not give the best possible result for every image out
     - [ ] Make coloured ascii filter. ( basically emojis instead of ascii keys. )
 
 ### Lookin to contribute
-    I don't think you wanna. At the moment the code is a huge mess, even I have a hard time figuring out why this code is even written this way.
-    Maybe once I clean up the code I'll update this part.
+I don't think you wanna. At the moment the code is a huge mess, even I have a hard time figuring out why this code is even written this way.
+Maybe once I clean up the code I'll update this part.
