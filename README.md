@@ -50,7 +50,7 @@ I guess you could say it works though theres this issue whhere it does not work 
 
 ### TODO
     - [x] Atleast get it to work.
-    - [ ] Get your lazy ass to upload it on github ffs.
+    - [x] Get your lazy ass to upload it on github ffs.
     - [ ] Make it work for all Images.
     - [ ] Make code clean.
     - [ ] Make a website for it so that everyone can use it.
