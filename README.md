@@ -6,7 +6,6 @@
 So I was chilling on youtube and I found this cool Saitamas ok Ascii thingy.  
 ![Saitama: OK](https://github.com/fauwara/images-to-ascii/blob/master/src/saitama-ok-ascii.png?raw=true)  
 so I thought it would be cool if I could make an application that converts images into ASCII characters like this.
-
 The application still does not give the best possible result for every image out there, it works better with simpler images.
 
 ## Soo does it work?
@@ -59,3 +58,4 @@ I guess you could say it works though theres this issue whhere it does not work 
 ### Lookin to contribute
 I don't think you wanna. At the moment the code is a huge mess, even I have a hard time figuring out why this code is even written this way.
 Maybe once I clean up the code I'll update this part.
+Just saying idk, if you practice writting really good code looking at this code might make you **cringe**
