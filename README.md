@@ -40,6 +40,8 @@ The application still does not give the best possible result for every image out
 
 I guess you could say it works though theres this issue whhere it does not work if the size of the image in pixels is not exactly divisible to the length of the ASCII text that you want. I kind of know whats the issue but its too annnoying too fix. I will fix it in the future thoo if motivation kicks in last momment ig idk.
 
+I still want to improve the code a bit more and make it resemble the original picture a bit more but for now imma goo sleep baii.
+
 ## The Tech Stuff if your intrested in it.
 
 ### Tech Stack Used
