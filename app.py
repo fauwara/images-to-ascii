@@ -90,32 +90,3 @@ for i in range(px):
     for j in range(px):
         print(res[j][i],end = '')
     print('')
-
-# print(im_raw[0,0])
-# count = 0
-# for row in im_raw:
-#     for pixel in row:
-#         rgb_value = int(pixel[0]) + int(pixel[1]) + int(pixel[2])
-#         if rgb_value < 153:
-#             pixel[0] = 0
-#             pixel[1] = 0
-#             pixel[2] = 0
-#         elif rgb_value < 306:
-#             pixel[0] = 51
-#             pixel[1] = 51
-#             pixel[2] = 51
-#         elif rgb_value < 459:
-#             pixel[0] = 102
-#             pixel[1] = 102
-#             pixel[2] = 102
-#         elif rgb_value < 612:
-#             pixel[0] = 153
-#             pixel[1] = 153
-#             pixel[2] = 153
-#         else:
-#             pixel[0] = 255
-#             pixel[1] = 255
-#             pixel[2] = 255
-
-# im = Image.fromarray(im_raw)
-# im.show()
