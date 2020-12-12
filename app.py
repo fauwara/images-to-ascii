@@ -3,10 +3,10 @@ import numpy as np
 
 ##################################### CONFIG
 # image file
-image_file = 'lmao.png'
+image_file = 'k-on.jpg'
 # dimensions
-keep_aspect_ratio = False
-dimensions = (40,40) # (width, height)
+keep_aspect_ratio = True
+dimensions = (130,150) # (width, height)
 # testing
 display_image = False 
 
@@ -23,14 +23,13 @@ def set_pixel_colour(pixel,rgb):
 ##################################### INIT RESULT
 ascii_image = []
 
-
 # opening the image
 image = Image.open(image_file)
 # resizing the image
 if keep_aspect_ratio:
-    image = image.thumbnail(dimensions)
+    image.thumbnail(dimensions)
 else:
-    image = image.resize(dimensions)
+    image.resize(dimensions)
 
 # convert image into raw (numpy array) format
 image_raw = np.array(image)
@@ -61,7 +60,6 @@ for row in ascii_image:
     for ascii_key in row:
         print(ascii_key,end='')
     print('')
-
 
 # just for testing
 if display_image:
