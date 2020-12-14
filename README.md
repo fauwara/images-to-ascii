@@ -48,16 +48,13 @@ I still want to improve the code a bit more and make it resemble the original pi
     * Python
         * Numpy
         * Pillow
+        
 
 ### TODO
 - [x] Atleast get it to work.
 - [x] Get your lazy ass to upload it on github ffs.
-- [ ] Make it work for all Images.
-- [ ] Make code clean.
+- [x] Make it work Images of all sizes.
+- [x] Make code clean. (Ig I did this dk)
+- [ ] Make better algo.
 - [ ] Make a website for it so that everyone can use it.
 - [ ] Make coloured ascii filter. ( basically emojis instead of ascii keys. )
-
-### Lookin to contribute
-I don't think you wanna. At the moment the code is a huge mess, even I have a hard time figuring out why this code is even written this way.
-Maybe once I clean up the code I'll update this part.
-Just saying idk, if you practice writting really good code looking at this code might make you **cringe**
