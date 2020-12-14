@@ -5,14 +5,12 @@ import numpy as np
 # image file
 image_file = 'lmao.png'
 # dimensions
-dimensions = (50,50) # (width, height) keep '/2' there. A charector is larger in height and smaller in width this is to compensate for that.
-keep_aspect_ratio = True
+dimensions = (100,100) # (width, height) keep '/2' there. A charector is larger in height and smaller in width this is to compensate for that.
+keep_aspect_ratio = False
 
 # testing
-testing = True
-display_image_details = True
+testing = False
 display_image = False
-display_ascii_text_details = True
 display_ascii_text = True
 
 ##################################### SOME FUNCTIONS
@@ -75,12 +73,6 @@ for row in image_raw:
             ascii_text[row_index].append(' ')
     
     row_index += 1
-
-##################################### DISPLAY IMAGE DETAILS
-if display_ascii_text_details:
-    print(' - ASCII TEXT - ')
-    print(f'ascii text width: {len(ascii_text[0])}')
-    print(f'ascii text height: {len(ascii_text)}')
 
 if display_ascii_text:
     for row in ascii_text:
